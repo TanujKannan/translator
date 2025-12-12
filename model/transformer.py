@@ -5,7 +5,7 @@ from .modules.positional import PositionalEncoding
 from .modules.encoder import Encoder
 from .modules.decoder import Decoder
 
-class Transformer(nn.module):
+class Transformer(nn.Module):
     def __init__(
             self, 
             vocab_size: int, 
