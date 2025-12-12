@@ -1,1 +1,1 @@
-Building a translator from scratch.
+im tryna know everything about everything. this is one step toward that.
